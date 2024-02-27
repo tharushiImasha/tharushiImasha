@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tharushi imasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharushi imasha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_.t.h.a.r.u_?igsh=MWJxZXByN3U0eDM4MQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharu imasha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
